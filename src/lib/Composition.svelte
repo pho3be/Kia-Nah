@@ -30,7 +30,7 @@
         </td>
         <td class="tg-0lax">
             <div class="rank-text">
-                <i class="valk-rank" style="background-image: url('img/UI/S.png');" alt="S / SS"></i>
+                <i class="valk-rank" style="background-image: url('img/ui/S.png');" alt="S / SS"></i>
                 <span>S / SS</span>
             </div>
         </td>
@@ -103,7 +103,7 @@
         </td>
         <td class="tg-0lax">
             <div class="rank-text">
-                <i class="valk-rank" style="background-image: url('img/UI/S.png');" alt="S / SS"></i>
+                <i class="valk-rank" style="background-image: url('img/ui/S.png');" alt="S / SS"></i>
                 <span>S / SS</span>
             </div>
         </td>
@@ -132,7 +132,7 @@
         </td>
         <td class="tg-0lax">
             <div class="rank-text">
-                <i class="valk-rank" style="background-image: url('img/UI/CORE.png');" alt="Core 3+"></i>
+                <i class="valk-rank" style="background-image: url('img/ui/CORE.png');" alt="Core 3+"></i>
                 <span>S / SS</span>
             </div>
         </td>
