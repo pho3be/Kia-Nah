@@ -1,0 +1,54 @@
+;Image de la Valkyrie;Type de la Valkyrie;Nom de la Valkyrie;Nom du Battlesuit;Nom du Battlesuit FR;Abréviation de la valkyrie;Rôle de la Valkyrie;Utilisation de la Valkyrie;Dois-je la farmer ?
+2;;Mech;Kiana Kaslana;White Comet;Comète Blanche;WC;Support;Ses esquives donnent des bonus de SP;Nan
+3;;Mech;Kiana Kaslana;Valkyrie Ranger;Ranger Valkyrie;VR;Support;Ses esquives font un trou noir qui Gather;Au moins jusqu'au S pour l'augmentation de la range du Gather, rang SSS pour Augment Core (mais pas une priorité)
+4;;Mech;Kiana Kaslana;Void Drifter;Vagabond du Néant;VD;DPS Physique/Support;Ses attaques combo font d'énormes dégâts, et remplir sa jauge Herrscher donne des SP à toute l'équipe;Pas une priorité, mais un objectif de haut niveau lorsque vous avez les bons équipements
+5;;Psy;Kiana Kaslana;Divine Prayer;Prière Divine;DP;Support Physique;Healer, et fait tomber des éclairs qui réduisent la défense ennemie en étant hors-terrain;La débloquer est suffisant
+6;;Bio;Kiana Kaslana;Knight Moonbeam;Chevaleresse Rayon Lunaire;KMB;Support / DPS Physique;Leader Skill pour BIO, Time Fracture sur commande, énorme DPS lorsque bien équipée pendant Time Fracture;Oui. C'est une des Valks à prendre en LoW (si vous ne l'avez pas eue en S garantie). En SSS, elle débloque une double Time Fracture
+7;;Bio;Kiana Kaslana;Herrscher of the Void;Herrscher du Néant;HV;DPS Physique;Leader Skill & Bourrage;Nan
+8;;Mech;Kallen Kaslana;Ritual Imayoh;Rituel Imayoh;RI;DPS Physique;Très utile en early game, moins en end game;Nan
+9;;Mech;Kallen Kaslana;Sündenjäger;Sündenjäger;SJ;DPS Physique;Elle sait tout faire... mais seule. Aucune synergie avec les autres Valkyries;Nan
+10;;Psy;Kallen Kaslana;Sixth Serenade;Sixième Sérénade;6S;DPS Elémentaire;Une fois équipée, DPS Glace potable, avec de bonnes frames d'invulnérabilité;Nan
+11;;Bio;Raiden Mei;Crimson Impulse;Impulsion Ecarlate;CI;DPS Physique;Peu intéressante, early game only;Nan
+12;;Bio;Raiden Mei;Valkyrie Bladestrike;Valkyrie Badestrike;VB;DPS Physique;Très peu intéressante;Nan
+13;;Mech;Raiden Mei;Shadow Dash;Célérité d'Ombre;SD;DPS Physique;Excellent Team Skill, fortement mobile;Nan
+14;;Psy;Raiden Mei;Lightning Empress;Impératrice Eclair;LE;Support Elementaire / DPS Elementaire;Excellent Leader Skill à SP, Support Foudre;Oui. C'est une des Valks à prendre en LoW (si vous ne l'avez pas eue en S garantie). Son Leader Skill est excellent et son support Foudre la met au coeur de la meta. A monter en SS mini
+15;;Bio;Raiden Mei;Striker Fulminata;Striker Fulminata;VBSF;DPS Physique;Rework de VB, très grande aire d'attaque sous ultime et bon DPS;Nan
+16;;Bio;Yae Sakura;Gyakushin Miko;Gyakushin Miko;Miko;DPS Physique;DPS très conséquent en early. Attention : l'ultime n'est pas du bourrage. Il faut faire trois passages et laisser Miko faire ses dégâts avant de recommencer.;Nan
+17;;Bio;Yae Sakura;Flame Sakitama;Flame Sakitama;FS;DPS Elementaire/Support élementaire;DPS Feu très puissant au rang SS;A monter en SS minimum. Avec sa PRI, elle peut aussi devenir un excellent support Feu
+18;;Mech;Yae Sakura;Goushinnso Memento;Goushinnso Memento;Meme;DPS Elementaire;DPS Glace très situationnel, mais l'un des meilleurs du jeu;Pas une priorité. Son arme 6* en fait un très bon DPS, mais elle réclame des ressources pour farmer d'autres Valkyries plus importantes.
+19;;Bio;Yae Sakura;Darkbolt Jonin;;DJ;DPS Elementaire;Valkyrie fortement mobile, elle manque néanmoins d'un peu de dommages et met beaucoup de temps à mettre son combo en place;Nan
+20;;Psy;Bronya Zaychik;Valkyrie Chariot;Chariot de Valkyrie;VC;Support / DPS Physique;Très bon Gather, DPS important en Time Fracture;A monter en SS voire SSS (mais pas une priorité)
+21;;Psy;Bronya Zaychik;Yamabuki Armor;Armure Yamabuki;YA;Support Physique;Bouclier absorbant les dommages physiques, très bon Leader Skill;A monter en SS, voire SSS, pour son Augment Core
+22;;Psy;Bronya Zaychik;Drive Kometa;Drive Kometa;DK;Support Physique;Bouclier absorbant les dommages physiques, augmentant les dommages physiques, gather, très bon Leader Skill. Top support Phyique au corps à corps;Oui. Un des meilleurs supports Physique. Au moins Core 4*
+23;;Bio;Bronya Zaychik;Snowy Sniper;Sniper Enneigée;SS;Support Physique;Ultime gelant les ennemis et augmentant les dégâts physiques subis;A monter en SS pour les bonus de dommages (mais pas une priorité)
+24;;Mech;Bronya Zaychik;Dimension Breaker;Briseuse Dimensionnelle;DB;Support;Excellent Crowd Control;Elle peut servir à débloquer des skills de HoR en SS (mais pas une priorité)
+25;;Mech;Bronya Zaychik;Herrscher of Reason;Herrscher de la Raison;HoR;DPS Elémentaire;Enormes dégâts sur ultime et attaque chargée.;Il s'agit de la priorité à obtenir en Cristaux avec son arme et set signature. A viser avec vos économies.
+26;;Psy;Bronya Zaychik;Wolf's Dawn;Aube du Loup;WD;Support Elémentaire;Bouclier absorbant les dommages élémentaires, augmentant les dommages élémentaires lorsqu'actif;A monter en SS pour les dommages élémentaires bonus (mais pas une priorité)
+27;;Bio;Bronya Zaychik;Black Nucleus;Noyau Sombre;BN;DPS Physique;Enorme DPS sur courtes durées;Nan
+28;;Bio;Murata Himeko;Battle Storm;Tempête de Bataille;BS;DPS;Très peu intéressante;Nan
+29;;Bio;Murata Himeko;Valkyrie Triumph;Triomphe de Valkyrie;VT;Support;Bon heal et ultime très pratique augmentant les dégâts subis des ennemis;Nan
+30;;Mech;Murata Himeko;Scarlet Fusion;Fusion Ecarlate;SF;DPS Elementaire;Bon dommages sur bouclier;Nan
+31;;Psy;Murata Himeko;Blood Rose;Rose Sanglante;BR;DPS Elementaire;Très situationnelle;Si vous y tenez, la monter en SS minimum avec son stuff.
+32;;Psy;Murata Himeko;Artic Kriegsmesser;Kriegsmesser;AK;DPS Elementaire;Peu intéressante;Nan
+33;;Mech;Murata Himeko;Vermillion Knight : Eclipse;Chevaleresse : Vermillion Eclipse;VK;DPS Elementaire;Très mobile et puissante, bourrage;Seulement si vous avez économisé 28k cristaux ou +
+34;;Psy;Theresa Apocalypse;Valkyrie Pledge;Promesse de Valkyrie;VP;DPS Elementaire;Sans Judah, inutile. Avec Judah, DPS élémentaire (Foudre) en 80-, support en 81+.;A monter en SS une fois que vous avez Judah, voire en SSS
+35;;Mech;Theresa Apocalypse;Violet Executer;Exécutrice Violette;VE;DPS Physique;Peu intéressante excepté pour son QTE;A monter en SS pour son Augment Core
+36;;Mech;Theresa Apocalypse;Twilight Paladin;Paladin du Crépuscule;TP;DPS Physique;Très bon DPS sur cible unique avec énorme capacité à monter le combo;Si vous la voulez, c'est au moins jusqu'au Core 4*, au mieux, Core 5* avec VE en SS
+37;;Psy;Theresa Apocalypse;Sakuno Rondo;Sakuno Rondo;SR;Support Elementaire / DPS Elementaire;Dégâts de Feu, au rang SS, elle augmente les dégâts élémentaires de l'équipe. Son DPS est peu intéressant.;Nan
+38;;Bio;Theresa Apocalypse;Celestial Hymn;Hymne Céleste;CH;Support Physique;Un Support Top Tier, même sans équipement, avec des bonus aux dommages et un Gather;L'une des meilleures support à avoir. Non farmable, elle n'a toutefois pas besoin d'équipement pour remplir son rôle.
+39;;Bio;Theresa Apocalypse;Luna Kindred;Luna Kindred;LK;DPS Physique;Excellente pour briser les boucliers;A monter en SSS avec l'OW pour accéder au shop spécial, et pour détruire les boucliers avec efficacité.
+40;;Psy;Fu Hua;Valkyrie Accipiter;Accipiter Valkyrie;VA;Support Physique;Excellente pour permettre à ses alliés de briser les boucliers, léger heal, et baisse de défense ennemie;Oui pour son Augment Core
+41;;Psy;Fu Hua;Hawk of the Fog;;VAHF ou Fog;Support physique/foudre / DPS élémentaire;DPS Foudre absolument pété.;Très haute priorité : l'un des meilleurs DPS f2p du jeu à l'heure actuelle.
+42;;Bio;Fu Hua;Night Squire;Ecuyère Nocturne;NS;DPS Physique;Au rang SSS, elle est le meilleur DPS F2P du jeu;Priorité N°1. A farmer en SSS le plus tôt possible
+43;;Psy;Fu Hua;Phoenix;Phénix;PX;Support Elementaire / DPS Elementaire;Un excellent support élémentaire, qui génèrera SP, et dommages même en dehors du terrain. Son DPS Feu est également excellent;Top priorité. A farmer en SS le plus tôt possible.
+44;;Mech;Fu Hua;Shadow Knight;Chevaleresse d'Ombre;SK;DPS Elementaire;Un personnage top-tier en early game, qui propose des dégâts de Foudre fortement conséquents en end game avec ses équipements;En early/mid game, très bonne Valkyrie avec un stuff f2p. En end game, prévoir de quoi l'équiper, sinon, non.
+45;;Psy;Fu Hua;Azure Empyrea;Empyrée Azur;AE ou Ink Hua;Support Elementaire;Un support élémentaire top-tier, qui peut générer des SP et rassembler les ennemis;Seul le rang S est nécessaire, mais prenez en compte qu'il s'agit d'une Valkyrie Gacha seulement.
+46;;Psy;Rita Rossweisse;Umbral Rose;Rose Ombrale;UR;DPS Physique;DPS Physique de type PSY, très puissante et mobile, très bonne survivabilité;Oui si vous êtes en possession de son arme signature, très bon DPS Physique PSY. A monter en SS minimum. (Pas une priorité)
+47;;Mech;Rita Rossweisse;Phantom Iron;Fer Fantôme;PI;Support / DPS Elementaire;Son ultime permet à ses alliés de faire beaucoup plus de dommages. En SSS et avec son équipement, elle devient un très bon DPS Foudre;Nan
+48;;Bio;Rita Rossweisse;Argent Knight : Artemis;Chevalière d'Argent : Artemis;AKA;DPS Elementaire;Peu intéressante comparée à d'autres DPS élémentaires, très utile en coop grâce à son gel unique. DPS Glace;Nan
+49;;Mech;Liliya Olenyeva;Blueberry Blitz;Myrtille Blitz;BB;Support Physique / DPS Physique;Fonctionne principalement avec son ultime Counter / Break Shield;Très utile dans certains compositions, ce n'est toutefois pas une priorité à farmer.
+50;;Psy;Rozaliya Olenyeva;Molotov Cherry;Cerise Molotov;MC;DPS Physique/Support élémentaire;Spin to Win, parfaite pour clear des groupes d'ennemis, très bon DPS si équipée correctement et en SS, a besoin de Liliya dans l'équipe. Avec Blood Dance, un bon support élémentaire;Pas une priorité comparée à PX/KMB/LE, mais si vous y tenez, en SS avec son stuff pour DPS
+51;;Quantum;Seele Vollerei;Swallowtail Phantasm;Fantasme de Machaon;SP;DPS Physique;Très dépendante de son ultime, elle ne sera utile qu'en Abysse.;Elle a récemment gagné en utilité suite à l'implémentation de contenu Quantum, mais elle n'est toujours pas une priorité
+52;;Quantum;Seele Vollerei;Stygian Nymph;Nymphe Stygienne;SN;DPS Physique;Extrêmement puissante, elle a toutefois besoin de son set signature pour réellement briller.;Seulement si vous avez économisé 28k cristaux ou +
+53;;Quantum;Durandal;Valkyrja Gloria;;VG;DPS Elementaire;Ayant besoin de rester longtemps sur le terrain pour avoir un DPS conséquent, elle n'est pas très utile dans la meta actuelle;Non
+;;;;;;;;;

@@ -1,0 +1,533 @@
+.navbar .nav-item.avatar .dropdown-toggle img {
+    height: 35px;
+}
+
+.navbar .nav-item.avatar .dropdown-toggle .username {
+    padding: 0 4px;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.waifu-image-card {
+    /* background-repeat: no-repeat; */
+    /* animation-direction: alternate; */
+    width: 148px;
+    height: 200px;
+    /* background-size: 800%; */
+    /*image-rendering: pixelated;*/
+}
+
+.item-count-container {
+    display: flex;
+    background: #06292F;
+    color: #fff;
+    fill: #fff;
+    margin-left: .5rem;
+    min-width: 128px;
+    border-left: 2px solid #DEC666;
+    padding-left: 2px;
+    border-radius: .2rem;
+}
+
+.col-waifu-card .waifu-card.card {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    border-radius: 24px;
+    background: #eee;
+    overflow: hidden;
+    width: 148px;
+    transition: .2s all ease-in-out;
+}
+
+.col-waifu-card .waifu-card.card:hover {
+    cursor: pointer;
+    box-shadow: 0 2px 8px 4px rgba(0, 0, 0, 0.15);
+    /*transform: scale(1.05);*/
+    transition: .2s all ease-in-out;
+}
+
+.waifu-card.checked:hover {
+    box-shadow: 0 2px 8px 4px #fdd909;
+    background: #ffdf4d;
+    transition: .2s all ease-in-out;
+}
+
+span.waifu-count {
+    position: absolute;
+    margin-top: -7px;
+    margin-left: 200px;
+    padding: 8px;
+    width: 48px;
+    height: 36px;
+    line-height: 18px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    letter-spacing: -1;
+    background: #06292f;
+    border-radius: 1rem;
+    opacity: .7;
+}
+
+
+.col-sm-3.col-waifu-card {
+    min-width: 256px;
+    max-width: 258px;
+    padding: 0;
+    margin: .5rem auto;
+}
+
+span.rank {
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 192px;
+    padding: 8px;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    line-height: 28px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bolder;
+    color: #fff;
+    letter-spacing: -1;
+    /*border: 1px solid rgba(0,0,0,.125);*/
+}
+
+span.card-img-top.waifu-image-card {
+    display: block;
+    border-radius: 24px;
+    /* width: auto; */
+}
+
+.rank.rank-0 {
+    background: #02D8FF;
+    background: linear-gradient(180deg, #02D8FF, #d2d2d2);
+}
+
+.rank.rank-1 {
+    background: #0B02AA;
+    background: linear-gradient(180deg, #0B02AA, #02D8FF);
+}
+
+
+.rank.rank-2 {
+    background: #FF0048;
+    background: linear-gradient(180deg, #FF0048, #FF00C6);
+}
+
+
+.rank.rank-3 {
+    background: #FFC100;
+    background: linear-gradient(0deg, #FFC100, #f9fb7b);
+    box-shadow: 0px 1px 6px 2px #ffc100;
+}
+
+
+span.rank.rank-0:after {
+    content: 'B';
+}
+
+span.rank.rank-1:after {
+    content: 'A';
+}
+
+span.rank.rank-2:after {
+    content: 'S';
+}
+
+span.rank.rank-3:after {
+    content: 'SR';
+}
+
+.card-img-top.waifu-image-card:hover {
+    /* animation: play .6s steps(3) infinite; */
+}
+
+@keyframes play {
+    /*100% { background-position: -384px 0 }*/
+    100% { background-position: -768px 0 }
+}
+
+li.nav-item.avatar.dropdown {
+    margin-left: .5rem;
+}
+
+img.rounded-circle.z-depth-0 {background: #06292F;}
+
+i.item-icon {
+    width: 32px;
+    height: 32px;
+}
+
+.items-container {
+    -ms-flex-preferred-size: 100%;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: flex;
+}
+
+svg.icon-get-more {}
+
+a.item-get-more {
+    fill: #eee;
+    /* padding: 4px; */
+    height: 32px;
+    width: 32px;
+    background: rgba(0,0,0,0.2);
+    border-radius: .2rem;
+    transition: .2s all ease-in-out;
+}
+
+.item-get-more svg {
+    width: 24px;
+    height: 24px;
+    margin: 4px;
+    line-height: 32px;
+}
+
+span.item-count {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: auto;
+    line-height: 32px;
+    padding: 0 6px;
+}
+
+a.item-get-more:hover {
+    fill: #DEC666;
+    background: #000405;
+    transition: .2s all ease-in-out;
+}
+
+/*
+========================================================================================================================
+=== Character details
+========================================================================================================================
+ */
+
+.waifu-rank.rank-0::after {
+    content: 'B';
+}
+.waifu-rank.rank-1::after {
+    content: 'A';
+}
+.waifu-rank.rank-2::after {
+    content: 'S';
+}
+.waifu-rank.rank-3::after {
+    content: 'SR';
+}
+
+.affetion-container {
+    display: flex;
+}
+.affetion-count {
+    padding-left: .5rem;
+    font-weight: lighter;
+}
+.card.card-waifu-details {
+    min-width: 400px;
+    margin-top: 4rem;
+    display: flex;
+    background: #06292F;
+    color: #fff;
+    fill: #fff;
+    margin-left: .5rem;
+    padding-left: 2px;
+    border-radius: .2rem;
+    border: none;
+    border-left: 4px solid #DEC666;
+}
+
+.affection-not, .affection-like {
+    width: 24px;
+    height: 24px;
+}
+.affection-not path {
+    fill: rgba(153,115,144,.5);
+}
+.affection-like path {
+    fill: #FF98FC;
+}
+.waifu-image {
+    margin: 0 auto;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+.container-fluid-lim {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.col-waifu-card {
+    flex-grow: 0;
+    transform: skew(-15deg, 0deg);
+}
+
+.col-waifu-card .card-body {
+    transform: skew(15deg, 0deg);
+}
+
+.col-waifu-card .rank {
+    transform: skew(15deg, 0deg);
+}
+
+/*
+ TYPES
+ */
+
+.col-waifu-card .qua .card-img-top.waifu-image-card {
+    background-color: #6733D5;
+}
+
+.mec .card-img-top.waifu-image-card {
+    background-color: #149ee5;
+}
+
+/*
+PLACEHOLDER
+ */
+
+div#placeholder {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background: #fff;
+}
+
+div#placeholder nav.mb-1.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    height: 67px;
+}
+
+.container {
+    width: 100%;
+    height: calc(100% - 71px);
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+/*body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}*/
+
+::-webkit-scrollbar {
+    width: 14px;
+    height: 14px
+}
+
+::-webkit-scrollbar-thumb,.scroll::-webkit-scrollbar-track {
+    background-clip: padding-box;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 7px
+}
+
+::-webkit-scrollbar-track {
+    border-width: initial
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #cecece;
+    border-color: transparent
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-color: transparent
+}
+
+.waifus-list {
+    justify-content: center;
+}
+
+.bottom-section {
+    padding-bottom: 5rem;
+}
+
+.list-header {
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.waifu-card.checked {
+    box-shadow: 0 0 0 2px #fdd909;
+    background: #ffdf4d;
+    transition: .2s all ease-in-out;
+}
+
+.col-waifu-card i.waifu-image-card {
+    background-image: url(/img/card/WC.png);
+    width: 178px;
+    height: 148px;
+    display: block;
+    transform: skew(15deg, 0deg);
+    position: relative;
+    left: -13px;
+}
+
+.mec .card-img-type {
+    background: linear-gradient(-15deg, #BCFFFF, #61ABE8);
+    border-radius: 20px;
+}
+.bio .card-img-type {
+    background: linear-gradient(-15deg, #FFF182, #FE8E61);
+    border-radius: 20px;
+}
+.psy .card-img-type {
+    background: linear-gradient(-15deg, #FFA9E1, #BD6ACD);
+    border-radius: 20px;
+}
+.qua .card-img-type {
+    background: linear-gradient(-15deg, #C685FF, #7965FF);
+    border-radius: 20px;
+}
+.ima .card-img-type {
+    background: linear-gradient(-15deg, #BBD4C1, #77A983);
+    border-radius: 20px;
+}
+.card-img-type {
+    background: linear-gradient(-15deg, #EAEAEA, #B7B7B7);
+    border-radius: 20px;
+}
+
+.tag-search {
+    opacity: 0;
+    position: absolute;
+}
+
+.waifu-name {
+    overflow: hidden;
+    max-height: 24px;
+    padding: 0 0 0 0;
+    font-size: .8rem;
+}
+
+.col-waifu-card .card-body.row {
+    padding: .5rem 1.25rem;
+}
+
+#compo {
+    min-height: 90vh;
+}
+
+span.card-img-top.waifu-image-card::after {content: '';background-image: url(/img/card/WC.png);background-size: cover;transform: skew(15deg, 0deg);display: block;visibility: visible;height: inherit;position: relative;left: -18px;}
+
+span.card-img-top.waifu-image-card::before {/* content: ''; */background-image: url(/img/bg/mec.png);background-size: cover;transform: skew(15deg, 0deg);display: block;visibility: visible;height: inherit;position: absolute;}
+
+/*
+ * Mini card
+ */
+.waifu-card {
+    padding-top: .5rem;
+    border-radius: 24px;
+    background: #eee;
+    overflow: hidden;
+    transition: .2s all ease-in-out;
+}
+
+.mini-waifu-card .waifu-card.card {
+    padding: 0;
+    border-radius: 6px;
+    background: #eee;
+    overflow: hidden;
+}
+
+.mini-waifu-card .card-img-type {
+    border-radius: 0px;
+}
+
+.mini-waifu-card i.waifu-image-card {
+    background-image: url(/img/card/WC.png);
+    width: 86px;
+    height: 74px;
+    display: block;
+    background-size: contain;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mini-waifu-card .card-body.row {
+    padding: .1rem 1.25rem;
+}
+
+.valk-rank {
+    width: 64px;
+    height: 64px;
+    display: block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rank-text {
+    padding: 0 1rem;
+    text-align: center;
+}
+
+
+/*
+ * Stigmates
+ */
+
+.stigs-holder {
+    padding: 0 2rem;
+}
+
+.stig-waifu-card .waifu-card.card {
+    padding: 0;
+    border-radius: 6px;
+    background: #eee;
+    overflow: hidden;
+}
+
+.stig-waifu-card .card-img-type {
+    border-radius: 0px;
+    background: linear-gradient(0deg, #0c9dc6, #236eba);
+}
+
+.stig-waifu-card i.waifu-image-card {
+    background: linear-gradient(90deg, #236eba, #0c9dc6);
+    width: 64px;
+    height: 56px;
+    display: block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.stig-waifu-card .card-body.row {
+    padding: .1rem 1.25rem;
+}

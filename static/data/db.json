@@ -1,0 +1,688 @@
+{
+  "types": [
+    "",
+    "mec",
+    "bio",
+    "psy",
+    "qua",
+    "ima"
+  ],
+  "valks": [
+    {
+      "type": 1,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "White Comet",
+      "battlesuitFR": "Comète Blanche",
+      "abbreviation": "WC",
+      "role": "Support",
+      "utilisation": "Ses esquives donnent des bonus de SP",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "Valkyrie Ranger",
+      "battlesuitFR": "Ranger Valkyrie",
+      "abbreviation": "VR",
+      "role": "Support",
+      "utilisation": "Ses esquives font un trou noir qui Gather",
+      "farm": {
+        "value": 0,
+        "text": "Au moins jusqu'au S pour l'augmentation de la range du Gather, rang SSS pour Augment Core (mais pas une priorité)"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "Void Drifter",
+      "battlesuitFR": "Vagabond du Néant",
+      "abbreviation": "VD",
+      "role": "DPS Physique/Support",
+      "utilisation": "Ses attaques combo font d'énormes dégâts, et remplir sa jauge Herrscher donne des SP à toute l'équipe",
+      "farm": {
+        "value": 0,
+        "text": "Pas une priorité, mais un objectif de haut niveau lorsque vous avez les bons équipements"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "Divine Prayer",
+      "battlesuitFR": "Prière Divine",
+      "abbreviation": "DP",
+      "role": "Support Physique",
+      "utilisation": "Healer, et fait tomber des éclairs qui réduisent la défense ennemie en étant hors-terrain",
+      "farm": {
+        "value": 0,
+        "text": "La débloquer est suffisant"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "Knight Moonbeam",
+      "battlesuitFR": "Chevaleresse Rayon Lunaire",
+      "abbreviation": "KMB",
+      "role": "Support / DPS Physique",
+      "utilisation": "Leader Skill pour BIO, Time Fracture sur commande, énorme DPS lorsque bien équipée pendant Time Fracture",
+      "farm": {
+        "value": 0,
+        "text": "Oui. C'est une des Valks à prendre en LoW (si vous ne l'avez pas eue en S garantie). En SSS, elle débloque une double Time Fracture"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Kiana Kaslana",
+      "battlesuit": "Herrscher of the Void",
+      "battlesuitFR": "Herrscher du Néant",
+      "abbreviation": "HoV",
+      "role": "DPS Physique",
+      "utilisation": "Leader Skill & Bourrage",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Kallen Kaslana",
+      "battlesuit": "Ritual Imayoh",
+      "battlesuitFR": "Rituel Imayoh",
+      "abbreviation": "RI",
+      "role": "DPS Physique",
+      "utilisation": "Très utile en early game, moins en end game",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Kallen Kaslana",
+      "battlesuit": "Sündenjäger",
+      "battlesuitFR": "Sündenjäger",
+      "abbreviation": "SJ",
+      "role": "DPS Physique",
+      "utilisation": "Elle sait tout faire... mais seule. Aucune synergie avec les autres Valkyries",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Kallen Kaslana",
+      "battlesuit": "Sixth Serenade",
+      "battlesuitFR": "Sixième Sérénade",
+      "abbreviation": "6S",
+      "role": "DPS Elémentaire",
+      "utilisation": "Une fois équipée, DPS Glace potable, avec de bonnes frames d'invulnérabilité",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Raiden Mei",
+      "battlesuit": "Crimson Impulse",
+      "battlesuitFR": "Impulsion Ecarlate",
+      "abbreviation": "CI",
+      "role": "DPS Physique",
+      "utilisation": "Peu intéressante, early game only",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Raiden Mei",
+      "battlesuit": "Valkyrie Bladestrike",
+      "battlesuitFR": "Valkyrie Badestrike",
+      "abbreviation": "VB",
+      "role": "DPS Physique",
+      "utilisation": "Très peu intéressante",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Raiden Mei",
+      "battlesuit": "Shadow Dash",
+      "battlesuitFR": "Célérité d'Ombre",
+      "abbreviation": "SD",
+      "role": "DPS Physique",
+      "utilisation": "Excellent Team Skill, fortement mobile",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Raiden Mei",
+      "battlesuit": "Lightning Empress",
+      "battlesuitFR": "Impératrice Eclair",
+      "abbreviation": "LE",
+      "role": "Support Elementaire / DPS Elementaire",
+      "utilisation": "Excellent Leader Skill à SP, Support Foudre",
+      "farm": {
+        "value": 0,
+        "text": "Oui. C'est une des Valks à prendre en LoW (si vous ne l'avez pas eue en S garantie). Son Leader Skill est excellent et son support Foudre la met au coeur de la meta. A monter en SS mini"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Raiden Mei",
+      "battlesuit": "Striker Fulminata",
+      "battlesuitFR": "Striker Fulminata",
+      "abbreviation": "VBSF",
+      "role": "DPS Physique",
+      "utilisation": "Rework de VB, très grande aire d'attaque sous ultime et bon DPS",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Yae Sakura",
+      "battlesuit": "Gyakushin Miko",
+      "battlesuitFR": "Gyakushin Miko",
+      "abbreviation": "Miko",
+      "role": "DPS Physique",
+      "utilisation": "DPS très conséquent en early. Attention : l'ultime n'est pas du bourrage. Il faut faire trois passages et laisser Miko faire ses dégâts avant de recommencer.",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Yae Sakura",
+      "battlesuit": "Flame Sakitama",
+      "battlesuitFR": "Flame Sakitama",
+      "abbreviation": "FS",
+      "role": "DPS Elementaire/Support élementaire",
+      "utilisation": "DPS Feu très puissant au rang SS",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS minimum. Avec sa PRI, elle peut aussi devenir un excellent support Feu"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Yae Sakura",
+      "battlesuit": "Goushinnso Memento",
+      "battlesuitFR": "Goushinnso Memento",
+      "abbreviation": "Meme",
+      "role": "DPS Elementaire",
+      "utilisation": "DPS Glace très situationnel, mais l'un des meilleurs du jeu",
+      "farm": {
+        "value": 0,
+        "text": "Pas une priorité. Son arme 6* en fait un très bon DPS, mais elle réclame des ressources pour farmer d'autres Valkyries plus importantes."
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Yae Sakura",
+      "battlesuit": "Darkbolt Jonin",
+      "battlesuitFR": "",
+      "abbreviation": "DJ",
+      "role": "DPS Elementaire",
+      "utilisation": "Valkyrie fortement mobile, elle manque néanmoins d'un peu de dommages et met beaucoup de temps à mettre son combo en place",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Valkyrie Chariot",
+      "battlesuitFR": "Chariot de Valkyrie",
+      "abbreviation": "VC",
+      "role": "Support / DPS Physique",
+      "utilisation": "Très bon Gather, DPS important en Time Fracture",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS voire SSS (mais pas une priorité)"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Yamabuki Armor",
+      "battlesuitFR": "Armure Yamabuki",
+      "abbreviation": "YA",
+      "role": "Support Physique",
+      "utilisation": "Bouclier absorbant les dommages physiques, très bon Leader Skill",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS, voire SSS, pour son Augment Core"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Drive Kometa",
+      "battlesuitFR": "Drive Kometa",
+      "abbreviation": "DK",
+      "role": "Support Physique",
+      "utilisation": "Bouclier absorbant les dommages physiques, augmentant les dommages physiques, gather, très bon Leader Skill. Top support Phyique au corps à corps",
+      "farm": {
+        "value": 0,
+        "text": "Oui. Un des meilleurs supports Physique. Au moins Core 4*"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Snowy Sniper",
+      "battlesuitFR": "Sniper Enneigée",
+      "abbreviation": "SS",
+      "role": "Support Physique",
+      "utilisation": "Ultime gelant les ennemis et augmentant les dégâts physiques subis",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS pour les bonus de dommages (mais pas une priorité)"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Dimension Breaker",
+      "battlesuitFR": "Briseuse Dimensionnelle",
+      "abbreviation": "DB",
+      "role": "Support",
+      "utilisation": "Excellent Crowd Control",
+      "farm": {
+        "value": 0,
+        "text": "Elle peut servir à débloquer des skills de HoR en SS (mais pas une priorité)"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Herrscher of Reason",
+      "battlesuitFR": "Herrscher de la Raison",
+      "abbreviation": "HoR",
+      "role": "DPS Elémentaire",
+      "utilisation": "Enormes dégâts sur ultime et attaque chargée.",
+      "farm": {
+        "value": 0,
+        "text": "Il s'agit de la priorité à obtenir en Cristaux avec son arme et set signature. A viser avec vos économies."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Wolf's Dawn",
+      "battlesuitFR": "Aube du Loup",
+      "abbreviation": "WD",
+      "role": "Support Elémentaire",
+      "utilisation": "Bouclier absorbant les dommages élémentaires, augmentant les dommages élémentaires lorsqu'actif",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS pour les dommages élémentaires bonus (mais pas une priorité)"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Bronya Zaychik",
+      "battlesuit": "Black Nucleus",
+      "battlesuitFR": "Noyau Sombre",
+      "abbreviation": "BN",
+      "role": "DPS Physique",
+      "utilisation": "Enorme DPS sur courtes durées",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Murata Himeko",
+      "battlesuit": "Battle Storm",
+      "battlesuitFR": "Tempête de Bataille",
+      "abbreviation": "BS",
+      "role": "DPS",
+      "utilisation": "Très peu intéressante",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Murata Himeko",
+      "battlesuit": "Valkyrie Triumph",
+      "battlesuitFR": "Triomphe de Valkyrie",
+      "abbreviation": "VT",
+      "role": "Support",
+      "utilisation": "Bon heal et ultime très pratique augmentant les dégâts subis des ennemis",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Murata Himeko",
+      "battlesuit": "Scarlet Fusion",
+      "battlesuitFR": "Fusion Ecarlate",
+      "abbreviation": "SF",
+      "role": "DPS Elementaire",
+      "utilisation": "Bon dommages sur bouclier",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Murata Himeko",
+      "battlesuit": "Blood Rose",
+      "battlesuitFR": "Rose Sanglante",
+      "abbreviation": "BR",
+      "role": "DPS Elementaire",
+      "utilisation": "Très situationnelle",
+      "farm": {
+        "value": 0,
+        "text": "Si vous y tenez, la monter en SS minimum avec son stuff."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Murata Himeko",
+      "battlesuit": "Artic Kriegsmesser",
+      "battlesuitFR": "Kriegsmesser",
+      "abbreviation": "AK",
+      "role": "DPS Elementaire",
+      "utilisation": "Peu intéressante",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Murata Himeko",
+      "battlesuit": "Vermillion Knight : Eclipse",
+      "battlesuitFR": "Chevaleresse : Vermillion Eclipse",
+      "abbreviation": "VK",
+      "role": "DPS Elementaire",
+      "utilisation": "Très mobile et puissante, bourrage",
+      "farm": {
+        "value": 0,
+        "text": "Seulement si vous avez économisé 28k cristaux ou +"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Valkyrie Pledge",
+      "battlesuitFR": "Promesse de Valkyrie",
+      "abbreviation": "VP",
+      "role": "DPS Elementaire",
+      "utilisation": "Sans Judah, inutile. Avec Judah, DPS élémentaire (Foudre) en 80-, support en 81+.",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS une fois que vous avez Judah, voire en SSS"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Violet Executer",
+      "battlesuitFR": "Exécutrice Violette",
+      "abbreviation": "VE",
+      "role": "DPS Physique",
+      "utilisation": "Peu intéressante excepté pour son QTE",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SS pour son Augment Core"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Twilight Paladin",
+      "battlesuitFR": "Paladin du Crépuscule",
+      "abbreviation": "TP",
+      "role": "DPS Physique",
+      "utilisation": "Très bon DPS sur cible unique avec énorme capacité à monter le combo",
+      "farm": {
+        "value": 0,
+        "text": "Si vous la voulez, c'est au moins jusqu'au Core 4*, au mieux, Core 5* avec VE en SS"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Sakuno Rondo",
+      "battlesuitFR": "Sakuno Rondo",
+      "abbreviation": "SR",
+      "role": "Support Elementaire / DPS Elementaire",
+      "utilisation": "Dégâts de Feu, au rang SS, elle augmente les dégâts élémentaires de l'équipe. Son DPS est peu intéressant.",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Celestial Hymn",
+      "battlesuitFR": "Hymne Céleste",
+      "abbreviation": "CH",
+      "role": "Support Physique",
+      "utilisation": "Un Support Top Tier, même sans équipement, avec des bonus aux dommages et un Gather",
+      "farm": {
+        "value": 0,
+        "text": "L'une des meilleures support à avoir. Non farmable, elle n'a toutefois pas besoin d'équipement pour remplir son rôle."
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Theresa Apocalypse",
+      "battlesuit": "Luna Kindred",
+      "battlesuitFR": "Luna Kindred",
+      "abbreviation": "LK",
+      "role": "DPS Physique",
+      "utilisation": "Excellente pour briser les boucliers",
+      "farm": {
+        "value": 0,
+        "text": "A monter en SSS avec l'OW pour accéder au shop spécial, et pour détruire les boucliers avec efficacité."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Fu Hua",
+      "battlesuit": "Valkyrie Accipiter",
+      "battlesuitFR": "Accipiter Valkyrie",
+      "abbreviation": "VA",
+      "role": "Support Physique",
+      "utilisation": "Excellente pour permettre à ses alliés de briser les boucliers, léger heal, et baisse de défense ennemie",
+      "farm": {
+        "value": 0,
+        "text": "Oui pour son Augment Core"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Fu Hua",
+      "battlesuit": "Hawk of the Fog",
+      "battlesuitFR": "",
+      "abbreviation": "Fog",
+      "role": "Support physique/foudre / DPS élémentaire",
+      "utilisation": "DPS Foudre absolument pété.",
+      "farm": {
+        "value": 0,
+        "text": "Très haute priorité : l'un des meilleurs DPS f2p du jeu à l'heure actuelle."
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Fu Hua",
+      "battlesuit": "Night Squire",
+      "battlesuitFR": "Ecuyère Nocturne",
+      "abbreviation": "NS",
+      "role": "DPS Physique",
+      "utilisation": "Au rang SSS, elle est le meilleur DPS F2P du jeu",
+      "farm": {
+        "value": 0,
+        "text": "Priorité N°1. A farmer en SSS le plus tôt possible"
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Fu Hua",
+      "battlesuit": "Phoenix",
+      "battlesuitFR": "Phénix",
+      "abbreviation": "PX",
+      "role": "Support Elementaire / DPS Elementaire",
+      "utilisation": "Un excellent support élémentaire, qui génèrera SP, et dommages même en dehors du terrain. Son DPS Feu est également excellent",
+      "farm": {
+        "value": 0,
+        "text": "Top priorité. A farmer en SS le plus tôt possible."
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Fu Hua",
+      "battlesuit": "Shadow Knight",
+      "battlesuitFR": "Chevaleresse d'Ombre",
+      "abbreviation": "SK",
+      "role": "DPS Elementaire",
+      "utilisation": "Un personnage top-tier en early game, qui propose des dégâts de Foudre fortement conséquents en end game avec ses équipements",
+      "farm": {
+        "value": 0,
+        "text": "En early/mid game, très bonne Valkyrie avec un stuff f2p. En end game, prévoir de quoi l'équiper, sinon, non."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Fu Hua",
+      "battlesuit": "Azure Empyrea",
+      "battlesuitFR": "Empyrée Azur",
+      "abbreviation": "AE",
+      "role": "Support Elementaire",
+      "utilisation": "Un support élémentaire top-tier, qui peut générer des SP et rassembler les ennemis",
+      "farm": {
+        "value": 0,
+        "text": "Seul le rang S est nécessaire, mais prenez en compte qu'il s'agit d'une Valkyrie Gacha seulement."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Rita Rossweisse",
+      "battlesuit": "Umbral Rose",
+      "battlesuitFR": "Rose Ombrale",
+      "abbreviation": "UR",
+      "role": "DPS Physique",
+      "utilisation": "DPS Physique de type PSY, très puissante et mobile, très bonne survivabilité",
+      "farm": {
+        "value": 0,
+        "text": "Oui si vous êtes en possession de son arme signature, très bon DPS Physique PSY. A monter en SS minimum. (Pas une priorité)"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Rita Rossweisse",
+      "battlesuit": "Phantom Iron",
+      "battlesuitFR": "Fer Fantôme",
+      "abbreviation": "PI",
+      "role": "Support / DPS Elementaire",
+      "utilisation": "Son ultime permet à ses alliés de faire beaucoup plus de dommages. En SSS et avec son équipement, elle devient un très bon DPS Foudre",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 2,
+      "valk": "Rita Rossweisse",
+      "battlesuit": "Argent Knight : Artemis",
+      "battlesuitFR": "Chevalière d'Argent : Artemis",
+      "abbreviation": "AKA",
+      "role": "DPS Elementaire",
+      "utilisation": "Peu intéressante comparée à d'autres DPS élémentaires, très utile en coop grâce à son gel unique. DPS Glace",
+      "farm": {
+        "value": 0,
+        "text": "Nan"
+      }
+    },
+    {
+      "type": 1,
+      "valk": "Liliya Olenyeva",
+      "battlesuit": "Blueberry Blitz",
+      "battlesuitFR": "Myrtille Blitz",
+      "abbreviation": "BB",
+      "role": "Support Physique / DPS Physique",
+      "utilisation": "Fonctionne principalement avec son ultime Counter / Break Shield",
+      "farm": {
+        "value": 0,
+        "text": "Très utile dans certains compositions, ce n'est toutefois pas une priorité à farmer."
+      }
+    },
+    {
+      "type": 3,
+      "valk": "Rozaliya Olenyeva",
+      "battlesuit": "Molotov Cherry",
+      "battlesuitFR": "Cerise Molotov",
+      "abbreviation": "MC",
+      "role": "DPS Physique/Support élémentaire",
+      "utilisation": "Spin to Win, parfaite pour clear des groupes d'ennemis, très bon DPS si équipée correctement et en SS, a besoin de Liliya dans l'équipe. Avec Blood Dance, un bon support élémentaire",
+      "farm": {
+        "value": 0,
+        "text": "Pas une priorité comparée à PX/KMB/LE, mais si vous y tenez, en SS avec son stuff pour DPS"
+      }
+    },
+    {
+      "type": 4,
+      "valk": "Seele Vollerei",
+      "battlesuit": "Swallowtail Phantasm",
+      "battlesuitFR": "Fantasme de Machaon",
+      "abbreviation": "SP",
+      "role": "DPS Physique",
+      "utilisation": "Très dépendante de son ultime, elle ne sera utile qu'en Abysse.",
+      "farm": {
+        "value": 0,
+        "text": "Elle a récemment gagné en utilité suite à l'implémentation de contenu Quantum, mais elle n'est toujours pas une priorité"
+      }
+    },
+    {
+      "type": 4,
+      "valk": "Seele Vollerei",
+      "battlesuit": "Stygian Nymph",
+      "battlesuitFR": "Nymphe Stygienne",
+      "abbreviation": "SN",
+      "role": "DPS Physique",
+      "utilisation": "Extrêmement puissante, elle a toutefois besoin de son set signature pour réellement briller.",
+      "farm": {
+        "value": 0,
+        "text": "Seulement si vous avez économisé 28k cristaux ou +"
+      }
+    },
+    {
+      "type": 4,
+      "valk": "Durandal",
+      "battlesuit": "Valkyrja Gloria",
+      "battlesuitFR": "",
+      "abbreviation": "VG",
+      "role": "DPS Elementaire",
+      "utilisation": "Ayant besoin de rester longtemps sur le terrain pour avoir un DPS conséquent, elle n'est pas très utile dans la meta actuelle",
+      "farm": {
+        "value": 0,
+        "text": "Non"
+      }
+    }
+  ]
+}
